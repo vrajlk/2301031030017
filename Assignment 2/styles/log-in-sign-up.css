@@ -1,0 +1,332 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.log-in-sign-up-rzj {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background: radial-gradient(0% 0% at 56.74% 50%, #0084ff 0%, #003464 100%);
+}
+.log-in-sign-up-rzj .group-de7 {
+  width: 17.1565rem;
+  height: 14.3785rem;
+  position: absolute;
+  left: 31.2rem;
+  top: 75.2363rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.log-in-sign-up-rzj .group-HyZ {
+  width: 27.7049rem;
+  height: 35.0245rem;
+  position: absolute;
+  left: 32.9701rem;
+  top: 60.9107rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.log-in-sign-up-rzj .group-Cqd {
+  width: 50.1225rem;
+  height: 59.0506rem;
+  position: absolute;
+  left: 71.85rem;
+  top: 10.5244rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.log-in-sign-up-rzj .efd9d8967b8b87687e279c7f15c79b-1-Xsu {
+  width: 144.5rem;
+  height: 104.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.log-in-sign-up-rzj .rectangle-1379-SEB {
+  width: 69rem;
+  height: 69rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 16.7rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.25rem);
+  background-color: rgba(87, 130, 193, 0.2800000012);
+  border-radius: 4rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq {
+  width: 50.3rem;
+  height: 55.45rem;
+  position: absolute;
+  left: 47.1rem;
+  top: 25.6rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .login-gAT {
+  width: 9.3rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .or-continue-with-XB5 {
+  width: 9.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 40.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .dont-have-an-account-yet-4Cw {
+  width: 15.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 53.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .register-for-free-69d {
+  width: 9.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 27.1rem;
+  top: 53.65rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .rectangle-1383-zko {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 32.8rem;
+  background-color: #003465;
+  border-radius: 1rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .sign-in-Wj9 {
+  width: 6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 34rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2253-oTM {
+  box-sizing: border-box;
+  padding: 1.3rem 6.3rem;
+  width: 15rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 45.5rem;
+  border: solid 0.1rem #bcbec0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2253-oTM .flat-color-icons-google-hod {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2252-mYb {
+  box-sizing: border-box;
+  padding: 1.3rem 6.3rem;
+  width: 15rem;
+  height: 5rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 45.5rem;
+  border: solid 0.1rem #bcbec0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2252-mYb .akar-icons-github-fill-fdy {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD {
+  width: 50rem;
+  height: 21.5rem;
+  position: absolute;
+  left: 0;
+  top: 7.2rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .rectangle-1381-EKh {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  border: solid 0.1rem #bcbec0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .email-L7q {
+  width: 4.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .rectangle-1382-3H9 {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 13.3rem;
+  border: solid 0.1rem #bcbec0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .password-L1M {
+  width: 7.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 10.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .usernamegmailcom-cjZ {
+  width: 13.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 4.3rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #bcbec0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .password-JsH {
+  width: 5.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 14.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #bcbec0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .forgot-password-QQX {
+  width: 8.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 19.9rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2250-LVD .clarity-eye-hide-line-Jko {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 46.3rem;
+  top: 15rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2251-yc3 {
+  box-sizing: border-box;
+  padding: 1.3rem 6.3rem 1.3rem 6.3rem;
+  width: 15rem;
+  height: 5rem;
+  position: absolute;
+  left: 35.3rem;
+  top: 45.5rem;
+  border: solid 0.1rem #bcbec0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.log-in-sign-up-rzj .group-2254-ymq .group-2251-yc3 .bi-facebook-59H {
+  width: 2.4003rem;
+  height: 2.4003rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.log-in-sign-up-rzj .group-YoZ {
+  opacity: 0.5;
+  width: 50.1225rem;
+  height: 59.0506rem;
+  position: absolute;
+  left: 0;
+  top: 64.2844rem;
+  object-fit: contain;
+  vertical-align: top;
+}

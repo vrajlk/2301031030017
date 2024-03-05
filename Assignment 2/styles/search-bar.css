@@ -1,0 +1,130 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.search-bar-C2B {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #0e0719 -0%, #100c23 59.27%, #181c49 100%);
+}
+.search-bar-C2B .flares-Kcb {
+  width: 103.0347rem;
+  height: 65.4188rem;
+  position: relative;
+  left: 28.4827rem;
+  top: 0;
+  background-size: 100% 157.624%;
+  background-position: 0 11.3056rem;
+  background-image: url('../assets/flares.png');
+}
+.search-bar-C2B .prompt-bar-zyd {
+  width: 96.1093rem;
+  height: 11.9016rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 46.2rem;
+}
+.search-bar-C2B .prompt-bar-zyd .backdrop-Wh5 {
+  width: 95.1062rem;
+  height: 11.9016rem;
+  position: absolute;
+  left: 0.626rem;
+  top: 0;
+  box-shadow: 0 0 13.9322rem rgba(236, 131, 187, 0.6000000238);
+  background-color: #1c1f28;
+  border-radius: 2.9643rem;
+}
+.search-bar-C2B .prompt-bar-zyd .search-bar-R3M {
+  box-sizing: border-box;
+  padding: 2.269rem 3.235rem 2.269rem 3.235rem;
+  width: 96.1093rem;
+  height: 11.6527rem;
+  position: absolute;
+  left: 0;
+  top: 0.1022rem;
+  box-shadow: 0 0 10.0131rem #3e2487;
+  background-color: #1c1f28;
+  border-radius: 2.9905rem;
+}
+.search-bar-C2B .prompt-bar-zyd .search-bar-R3M .search-bar-XMH {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.search-bar-C2B .prompt-bar-zyd .search-bar-R3M .search-bar-XMH .search-bar-gV5 {
+  margin: 0.758rem 50.686rem 0.658rem 0rem;
+  height: calc(100% - 1.4154rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.search-bar-C2B .prompt-bar-zyd .search-bar-R3M .search-bar-XMH .search-bar-gV5 .search-DE7 {
+  margin: 0rem 3.301rem 0rem 0rem;
+  width: 5.7339rem;
+  height: 5.5602rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.search-bar-C2B .prompt-bar-zyd .search-bar-R3M .search-bar-XMH .search-bar-gV5 .ask-a-question-igf {
+  font-size: 3.7621rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-bar-C2B .prompt-bar-zyd .search-bar-R3M .search-bar-XMH .send-SsZ {
+  width: 7.2185rem;
+  height: 7.1154rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.0312rem;
+  flex-shrink: 0;
+}
+.search-bar-C2B .text-Li3 {
+  width: 52.1rem;
+  height: 17rem;
+  position: absolute;
+  left: 43.9961rem;
+  top: 22.6rem;
+}
+.search-bar-C2B .text-Li3 .unleash-your-request-Gbh {
+  width: 52.1rem;
+  height: 17rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 7.6713rem;
+  font-weight: 700;
+  line-height: 1.1025;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.search-bar-C2B .text-Li3 .vector-ym1 {
+  width: 3.126rem;
+  height: 4.371rem;
+  position: absolute;
+  left: 46.8353rem;
+  top: 10.0267rem;
+  object-fit: contain;
+  vertical-align: top;
+}
